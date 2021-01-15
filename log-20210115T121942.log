@@ -1,0 +1,15 @@
+12:19:54 INFO   - Opened sitehttps://ilcarro-dev-v1.firebaseapp.com/
+12:19:55 INFO   - start testtestLogin
+12:20:05 INFO   - 
+ user name is my.email1608662540277@gmail.com 
+ user password is Aa125546
+12:20:09 INFO   - Test passed
+12:20:10 INFO   - Created screenshotsrc/test/screenshots/screenshot-1610706009892.png
+12:20:10 INFO   - stop testtestLogin
+12:20:10 INFO   - start testtestLoginDataProvider
+12:20:10 INFO   - 
+ user name ismy.email1608662540277@gmail.com
+ user password is Aa125546
+12:20:13 INFO   - Test passed
+12:20:14 INFO   - Created screenshotsrc/test/screenshots/screenshot-1610706013645.png
+12:20:14 INFO   - stop testtestLoginDataProvider

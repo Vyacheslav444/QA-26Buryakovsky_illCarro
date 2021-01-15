@@ -19,7 +19,7 @@ public class ApplicationManager {
     UserHelper user;
     CarHelper carHelper;
     String browser;
-    Logger logger = LoggerFactory.getLogger(ApplicationManager.class);
+    Logger logger = LoggerFactory.getLogger(MyListener.class);
 
     public static class MyListener extends AbstractWebDriverEventListener{
         public MyListener() {
