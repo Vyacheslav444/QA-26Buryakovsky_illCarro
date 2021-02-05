@@ -7,7 +7,6 @@ public class carCreationTest extends TestBase{
     @Test
     public void testCarCreation(){
         app.getCarHelper().initAddingNewCar();
-        
         Assert.assertTrue(app.getCarHelper().isCarCreationFormPresent());
         //app.getCarHelper().fillCarForm("TelAviv", address, distance, serial_number, brand, model, year, engine, fuel_consumpion, fuel, transmition, wD, horsepower, torque, doors, seats, clasS, about, feature, fuel_consumption, price);
         //app.getCarHelper().clickYallaButton();
