@@ -1,0 +1,6 @@
+19:14:07 INFO   - Opened sitehttps://ilcarro-dev-v1.firebaseapp.com/
+19:14:08 INFO   - start testtestRegistration
+19:14:25 INFO   - stop testtestRegistration
+19:14:25 INFO   - start testtestRegistrationNegative
+19:14:31 INFO   - stop testtestRegistrationNegative
+19:14:31 INFO   - start testtestLogin

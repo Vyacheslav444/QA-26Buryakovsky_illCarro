@@ -1,0 +1,30 @@
+21:38:29 INFO   - Opened sitehttps://ilcarro-dev-v1.firebaseapp.com/
+21:38:30 INFO   - start testtestRegistration
+21:38:46 INFO   - stop testtestRegistration
+21:38:46 INFO   - start testtestRegistrationNegative
+21:38:52 INFO   - stop testtestRegistrationNegative
+21:38:52 INFO   - start testtestLogin
+21:39:02 INFO   - 
+ user name is my.email1608662540277@gmail.com 
+ user password is Aa125546
+21:39:06 INFO   - Test passed
+21:39:07 INFO   - Created screenshotsrc/test/screenshots/screenshot-1612381146786.png
+21:39:07 INFO   - stop testtestLogin
+21:39:07 INFO   - start testtestLoginDataProvider
+21:39:07 INFO   - 
+ user name ismy.email1608662540277@gmail.com
+ user password is Aa125546
+21:39:10 INFO   - Test passed
+21:39:10 INFO   - Created screenshotsrc/test/screenshots/screenshot-1612381150466.png
+21:39:10 INFO   - stop testtestLoginDataProvider
+21:39:10 INFO   - start testtestLoginDataProviderCsv
+21:39:11 INFO   - 
+ user name is my.email1608662540277@gmail.com 
+ user password isAa125546
+21:39:14 INFO   - Test passed
+21:39:14 INFO   - Created screenshotsrc/test/screenshots/screenshot-1612381154000.png
+21:39:14 INFO   - stop testtestLoginDataProviderCsv
+21:39:14 INFO   - start testtestCarCreation
+21:39:19 INFO   - stop testtestCarCreation
+21:39:19 INFO   - start testlogoutTest
+21:39:19 INFO   - stop testlogoutTest

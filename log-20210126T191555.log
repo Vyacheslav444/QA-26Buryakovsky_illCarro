@@ -1,0 +1,17 @@
+19:16:04 INFO   - Opened sitehttps://www.google.com/
+19:16:05 INFO   - start testtestRegistration
+19:16:16 INFO   - stop testtestRegistration
+19:16:16 INFO   - start testtestRegistrationNegative
+19:16:26 INFO   - stop testtestRegistrationNegative
+19:16:26 INFO   - start testtestLogin
+19:16:30 INFO   - 
+ user name is my.email1608662540277@gmail.com 
+ user password is Aa125546
+19:16:38 INFO   - stop testtestLogin
+19:16:38 INFO   - start testtestLoginDataProvider
+19:16:46 INFO   - stop testtestLoginDataProvider
+19:16:46 INFO   - stop testtestLoginDataProviderCsv
+19:16:46 INFO   - start testtestCarCreation
+19:16:54 INFO   - stop testtestCarCreation
+19:16:54 INFO   - start testlogoutTest
+19:17:02 INFO   - stop testlogoutTest

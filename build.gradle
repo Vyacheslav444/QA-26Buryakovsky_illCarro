@@ -28,4 +28,8 @@ task regression(type: Test){
         systemProperty 'browser', "${browser}"
     }
 
+    if(project.hasProperty('target')){
+        systemProperty 'target', "${target}"
+    }
+
 }

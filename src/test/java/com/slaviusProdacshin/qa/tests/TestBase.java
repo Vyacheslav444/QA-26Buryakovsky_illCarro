@@ -6,6 +6,7 @@ import org.slf4j.LoggerFactory;
 import org.openqa.selenium.remote.BrowserType;
 import org.testng.annotations.*;
 
+import java.io.IOException;
 import java.lang.reflect.Method;
 
 public class TestBase {
@@ -13,7 +14,7 @@ public class TestBase {
             = new ApplicationManager(System.getProperty("browser", BrowserType.CHROME));
 Logger logger = LoggerFactory.getLogger(TestBase.class);
     @BeforeSuite
-    public void setUp(){
+    public void setUp() throws IOException {
         app.start();
 
     }

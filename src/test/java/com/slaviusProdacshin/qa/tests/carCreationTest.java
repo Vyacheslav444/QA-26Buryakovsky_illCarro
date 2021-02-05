@@ -12,8 +12,8 @@ public class carCreationTest extends TestBase{
         //app.getCarHelper().clickYallaButton();
         app.getCarHelper().fillCarForm("Israel","Herzel","500",
                 "2333359895","Civic","Honda","2015","4554545","6",
-                "disel","auto","wD","kop","120","2",
-        "A","A","ss","or","50");
+                "disel","auto","wD","577","120","2",
+        "4","A","ss","or","50");
         app.getCarHelper().clickYallaButton();
     }
 

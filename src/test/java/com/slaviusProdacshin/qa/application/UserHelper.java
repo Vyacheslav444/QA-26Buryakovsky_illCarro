@@ -9,17 +9,18 @@ public class UserHelper extends HelperBase{
     public UserHelper(WebDriver wd) {
         super(wd);
     }
-    public void Login() throws InterruptedException {
+    public void Login(String email, String password) throws InterruptedException {
         //clickOnLoginButton
         clickByCss("[href='/login']");
         //click(By.cssSelector("[href='/login']"));
         fillLoginForm(new User()
-                .setEmail("my.email1608662540277@gmail.com")
-                .setPassword("Aa125546") );
+                .setEmail(email)
+                .setPassword(password) );
         pause(2000);
         clickByCss("[type=submit]");
     }
-
+//.setEmail("my.email1608662540277@gmail.com")
+ //               .setPassword("Aa125546") );
 
 
     public boolean isRegistrationFormPresent() {

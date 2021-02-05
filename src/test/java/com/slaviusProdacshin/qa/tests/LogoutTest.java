@@ -6,7 +6,7 @@ public class LogoutTest extends TestBase{
     @BeforeMethod
     public void ensurePreconditions() throws InterruptedException {
         if(!app.getUser().isUserLoggedIn()){
-            app.getUser().Login();
+            app.getUser().Login(app.setEmail(), app.setPassword());
         }
     }
     @Test
